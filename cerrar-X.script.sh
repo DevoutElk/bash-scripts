@@ -1,3 +1,5 @@
+#!/bin/bash
+
 read -p "Introduce el número de sesión a detener: " session_number
 
 # Buscar el PID del proceso 'xinit' relacionado con la sesión seleccionada

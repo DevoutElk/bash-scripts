@@ -1,3 +1,5 @@
+#!/bin/bash
+
 pidof mate-session > ~/Escritorio/mate-session.pid
 
 read -p "Introduce el número de sesión: " session_number
